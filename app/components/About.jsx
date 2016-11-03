@@ -1,19 +1,9 @@
 var React  = require("react");
 var {Link} = require("react-router");
 
-// Simple stateless functional component
-// var About = React.createClass({
-//     render: function () {
-//
-//         return (
-//             <h3>About component</h3>
-//         );
-//     }
-// });
-
 var About = (props) => (
     <div>
-        <h1 className="text-center">About </h1>
+        <h1 className="text-center about-title">About </h1>
         <p>Thsi is a weather application build on React.</p>
         <p>Here are some oth tools I used: </p>
         <ul>

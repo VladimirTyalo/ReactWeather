@@ -1,0 +1,21 @@
+.page-title {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.nav-link:hover {
+  color: #65ab98;
+}
+
+
+input[type=search] {
+  box-shadow: none;
+}
+
+.about-title {
+  margin: 2.5rem auto;
+}
+
+.examples-title {
+  margin: 2.5rem auto;
+}
