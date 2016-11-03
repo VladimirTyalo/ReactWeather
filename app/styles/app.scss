@@ -1,0 +1,29 @@
+$space-large: 3rem;
+$color-title: #65c17a;
+$color-link-hover: #65ab98;
+
+h1  {
+  color: $color-title;
+}
+
+.page-title {
+  margin-top: $space-large;
+  margin-bottom: $space-large;
+}
+
+.nav-link:hover {
+  color: $color-link-hover;
+}
+
+
+input[type=search] {
+  box-shadow: none;
+}
+
+.about-title {
+  margin: $space-large auto;
+}
+
+.examples-title {
+  margin: $space-large auto;
+}
